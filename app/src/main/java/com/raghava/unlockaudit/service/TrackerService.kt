@@ -4,7 +4,7 @@ import android.app.*
 import android.content.*
 import android.os.Build
 import android.os.IBinder
-import android.os.KeyguardManager
+import android.app.KeyguardManager
 import android.os.PowerManager
 import android.content.pm.ServiceInfo
 import android.util.Log
