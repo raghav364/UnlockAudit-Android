@@ -1,0 +1,26 @@
+PASS: Android manifest and resource XML valid
+PASS: same package ID
+PASS: target API 36
+PASS: no INTERNET permission
+PASS: no QUERY_ALL_PACKAGES permission
+PASS: cloud backup disabled
+PASS: user-controlled foreground tracking
+PASS: structured Room database
+PASS: idempotent migration key
+PASS: live session idempotency
+PASS: all selected v2.0 navigation tabs
+PASS: scrollable screens
+PASS: calendar date picker
+PASS: document-based CSV export
+PASS: retention supported
+PASS: DAO multi-line SQL extracted
+PASS: daily summary groups with correct durations
+PASS: search filters daily summaries
+PASS: session search finds only matching sessions
+
+19/19 offline checks passed.
+PASS: exact legacy-format session and app events
+PASS: rejected legacy text retained; deterministic migration keys
+PASS: chronological foreground events, duplicate and own-app filters
+PASS: CSV formula-injection defense, quoting, export header
+PASS: US-locale v1.1 history parsing
